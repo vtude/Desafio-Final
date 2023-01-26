@@ -1,0 +1,52 @@
+.header
+{
+height: 6em;
+padding: 1.8em;
+font-size: 4em;
+margin: auto;
+border: solid  1px #ddd;
+text-align: center;
+color: rgb(255, 255, 255); 
+background-image: url(https://images.unsplash.com/photo-1590764257694-8b1b85d60e89?ixlib=rb-4.0.3&ixid=MnwxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8&auto=format&fit=crop&w=1470&q=80);
+background-size: cover;
+background-position: center;
+
+}
+
+.header h1{
+    margin: 0px;
+    font-weight: 100;
+    font-family: Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+}
+
+.products{
+    width: 80%;
+    margin: auto;
+
+}
+.products td{
+    width: 50%;
+    padding: 2em;
+
+}
+.products img{
+    width: 80%;
+    border: solid  1px #ddd;
+}
+
+.products p{
+    font-size: 0.9em;
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+color: rgb(87, 87, 87);
+font-weight: 600;
+
+}  
+
+.footer {
+
+    background-color: rgb(179, 206, 230);
+    text-align: center;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 0.5em;
+
+}  
